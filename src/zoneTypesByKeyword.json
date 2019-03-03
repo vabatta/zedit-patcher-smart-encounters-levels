@@ -1,0 +1,139 @@
+[
+  {
+    "Keywords": [
+      "LocTypeAnimalDen"
+    ],
+    "MinLevel": 1,
+    "MaxLevel": 0,
+    "Range": 0
+  },
+  {
+    "Keywords": [
+      "LocTypeBanditCamp",
+      "LocTypeShipwreck"
+    ],
+    "MinLevel": 5,
+    "MaxLevel": 0,
+    "Range": 0
+  },
+  {
+    "Keywords": [
+      "LocTypeHabitation",
+      "LocTypeSettlement"
+    ],
+    "MinLevel": 10,
+    "MaxLevel": 0,
+    "Range": 0
+  },
+  {
+    "Keywords": [
+      "LocTypeForswornCamp"
+    ],
+    "MinLevel": 20,
+    "MaxLevel": 0,
+    "Range": 0
+  },
+  {
+    "Keywords": [
+      "CWFort",
+      "LocTypeFort",
+      "LocTypeMilitaryFort",
+      "LocSetMilitaryCamp",
+      "LocTypeCity",
+      "LocTypeTown",
+      "LocTypeOrcStronghold"
+    ],
+    "MinLevel": 25,
+    "MaxLevel": 0,
+    "Range": 0
+  },
+  {
+    "Keywords": [
+      "LocTypeDraugrCrypt"
+    ],
+    "MinLevel": 30,
+    "MaxLevel": 0,
+    "Range": 0
+  },
+  {
+    "Keywords": [
+      "LocTypeFalmerHive"
+    ],
+    "MinLevel": 30,
+    "MaxLevel": 0,
+    "Range": 0
+  },
+  {
+    "Keywords": [
+      "LocTypeSprigganGrove"
+    ],
+    "MinLevel": 30,
+    "MaxLevel": 0,
+    "Range": 0
+  },
+  {
+    "Keywords": [
+      "LocTypeWarlockLair",
+      "LocTypeHagravenNest"
+    ],
+    "MinLevel": 35,
+    "MaxLevel": 0,
+    "Range": 0
+  },
+  {
+    "Keywords": [
+      "LocTypeDwarvenAutomatons"
+    ],
+    "MinLevel": 40,
+    "MaxLevel": 0,
+    "Range": 0
+  },
+  {
+    "Keywords": [
+      "LocTypeGiantCamp"
+    ],
+    "MinLevel": 40,
+    "MaxLevel": 0,
+    "Range": 0
+  },
+  {
+    "Keywords": [
+      "LocTypeVampireLair"
+    ],
+    "MinLevel": 50,
+    "MaxLevel": 0,
+    "Range": 0
+  },
+  {
+    "Keywords": [
+      "LocTypeWerewolfLair"
+    ],
+    "MinLevel": 50,
+    "MaxLevel": 0,
+    "Range": 0
+  },
+  {
+    "Keywords": [
+      "LocTypeDragonPriestLair"
+    ],
+    "MinLevel": 50,
+    "MaxLevel": 0,
+    "Range": 0
+  },
+  {
+    "Keywords": [
+      "LocTypeCastle"
+    ],
+    "MinLevel": 50,
+    "MaxLevel": 0,
+    "Range": 0
+  },
+  {
+    "Keywords": [
+      "LocTypeDragonLair"
+    ],
+    "MinLevel": 60,
+    "MaxLevel": 0,
+    "Range": 0
+  }
+]

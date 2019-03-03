@@ -1,0 +1,14 @@
+{
+  "id": "PatcherSmartEncountersLevels",
+  "name": "Smart: Encounters' levels patcher",
+  "author": "vabatta",
+  "version": "1.0.0",
+  "released": "2/27/2019",
+  "updated": "3/3/2019",
+  "description": "Experimental patcher to dynamically guess and assign levels to encounter zones.",
+  "requires": [
+    "unifiedPatchingFramework"
+  ],
+  "moduleLoader": "UPF",
+  "canHotLoad": true
+}

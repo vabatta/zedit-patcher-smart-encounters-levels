@@ -1,0 +1,53 @@
+[
+  {
+    "Matches": [
+      "ThalmorEmbassy",
+      "StendarrsBeacon",
+      "HalloftheVigilant"
+    ],
+    "MinLevel": 15,
+    "MaxLevel": 0,
+    "Range": 0
+  },
+  {
+    "Matches": [
+      "DLC1Falmer",
+      "DLC1zFalmer",
+      "DLC1ForebearsHoldout"
+    ],
+    "MinLevel": 15,
+    "MaxLevel": 0,
+    "Range": 0
+  },
+  {
+    "Matches": [
+      "DLC1VampireCastle"
+    ],
+    "MinLevel": 25,
+    "MaxLevel": 0,
+    "Range": 0
+  },
+  {
+    "Matches": [
+      "DLC2Book"
+    ],
+    "MinLevel": 25,
+    "MaxLevel": 0,
+    "Range": 0,
+    "DisableBoundary": false
+  },
+  {
+    "Matches": [
+      "DLC2AbandonedLodge",
+      "DLC2BujoldsRetreat",
+      "DLC2POI13",
+      "DLC2DremoraShop",
+      "DLC2RamshackleTradingPost",
+      "DLC2HoldingCellBard",
+      "Doomstone"
+    ],
+    "MinLevel": 0,
+    "MaxLevel": 0,
+    "Range": 0
+  }
+]
