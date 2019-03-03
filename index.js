@@ -58,8 +58,8 @@ registerPatcher({
         // helpers.logMessage(`${JSON.stringify(zoneType)}\n`)
         // patch it
         // set the levels
-        xelib.SetUIntValue(record, 'DATA\\Min Level', zoneType.MinLevel)
-        xelib.SetUIntValue(record, 'DATA\\Max Level', zoneType.MaxLevel)
+        if (zoneType.MinLevel !== undefined) xelib.SetUIntValue(record, 'DATA\\Min Level', zoneType.MinLevel)
+        if (zoneType.MaxLevel !== undefined) xelib.SetUIntValue(record, 'DATA\\Max Level', zoneType.MaxLevel)
         // set the never resets flag
         if (zoneType.NeverResets !== undefined) xelib.SetFlag(record, 'DATA\\Flags', 'Never Resets', zoneType.NeverResets)
         // set the match level flag

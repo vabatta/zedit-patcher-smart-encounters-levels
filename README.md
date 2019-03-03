@@ -1,5 +1,4 @@
 # Smart: encounters' levels
----
 
 This is an experimental patcher to dynamically guess and assign levels to encounter zones.  
 Based of different JSON, it will patch all `ECZN` records while walking their respective
@@ -11,7 +10,8 @@ Falskaar, Moon path...).
 
 ## Properties
 
-The properties used in all the files.
+The properties used in all the files. Removing a property from the `JSON` will let the patcher
+ignore it's application.
 
 ### MinLevel
 `"MinLevel": number`
